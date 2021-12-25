@@ -1,0 +1,16 @@
+.gallery_container_images {
+	display: flex;
+	margin: 0 auto !important;
+}
+.gallery_images {
+	/* gap: 2rem !important; */
+	margin: 1rem rem 1rem 1rem !important;
+	margin-bottom: 5rem !important;
+	margin-top: 4rem !important;
+	left: 50% !important;
+}
+.gallery_segment {
+	background-color: #c599c9 !important;
+    width: 60rem !important;
+    margin: 0 auto !important;
+}

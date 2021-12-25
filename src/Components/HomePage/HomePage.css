@@ -1,0 +1,40 @@
+.homePage_container{
+    display: flex;
+    padding: 1.5rem;
+    margin: 0 auto;
+    margin-bottom: 2rem !important;
+}
+
+.homePage_header{
+    text-align: center;
+    margin: 0.5rem 0.25rem 0.25rem 0.5rem !important;
+    padding: 1.25rem !important;
+    /* text-transform: uppercase !important; */
+    font-size: 3rem !important;
+}
+
+.homePage__main{
+    padding: 0.25rem;
+}
+
+.homePage_image img{
+    margin: 0 auto !important;
+}
+
+.homePage_tagLine{
+    font-size: 1.5rem !important;
+    line-height: 1.75rem;
+    /* background-color: #9e4fe3 !important; */
+    font-weight: 600;
+    margin: 0 auto;
+    text-align: center;
+    color: #000;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+}
+
+.homePage__tagLineSegment{
+    background-color: #c599c9 !important;
+    font-size: 1.5rem !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
